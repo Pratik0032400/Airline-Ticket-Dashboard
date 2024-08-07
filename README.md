@@ -28,4 +28,4 @@ The project aims to analyse airline ticket prices, flight durations, and flight 
 ➡ Peak travel times in early morning and evening require schedule adjustments to meet demand.
 ➡ Late-night and early-morning flights can cater to business travellers and commuters.
 
-hashtag#DataAnalysis hashtag#PowerBI hashtag#BusinessIntelligence hashtag#DataVisualization hashtag#DashboardDesign
+
